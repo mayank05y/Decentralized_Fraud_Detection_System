@@ -1,0 +1,1 @@
+A secure fraud detection model leveraging Blockchain for tamper-proof transactions and Machine Learning for real-time anomaly detection. Built with Python, Solidity, and Web3.py for decentralized security.
